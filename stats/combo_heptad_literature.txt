@@ -1,0 +1,17 @@
+4	Asn, Asp, Asp, Cys, His, His, Lys
+2	Arg, Asp, Asp, Asp, Cys, His, His
+2	Asp, Asp, Asp, Asp, Gly, Lys, Phe
+2	Arg, Arg, Asn, Glu, His, Lys, Lys
+2	Arg, Asp, His, Lys, Lys, Lys, Lys
+1	Arg, Asp, Ddz, His, His, Lys, Lys
+1	Arg, Arg, Css, Gly, Lys, Thr, Val
+1	Cys, Cys, Glu, His, His, Lys, Phe
+1	Arg, Asn, Asp, Glu, His, Trp, Trp
+1	Cys, Cys, Glu, Glu, His, Lys, Tyr
+1	Asn, Asn, Asn, His, His, Ser, Thr
+1	Arg, Arg, Gln, His, His, Ser, Thr
+1	Asp, Glu, Glu, Lys, Lys, Ser, Tyr
+1	Ala, Glu, Lys, Lys, Ser, Ser, Ser
+1	Asp, Gln, Gln, His, Ser, Thr, Thr
+1	Asp, Ile, Ile, Leu, Leu, Met, Phe
+1	Arg, Asn, Asp, Glu, His, Ser, Trp

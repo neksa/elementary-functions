@@ -1,0 +1,14 @@
+72	Glu
+59	His
+56	Asp
+37	Lys
+27	Arg
+15	Tyr
+12	Ala
+10	Asn
+6	Cys
+5	Gln
+4	Ser
+4	Gly
+4	Thr
+2	Phe

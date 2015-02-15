@@ -1,0 +1,1327 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.2.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ "" ],
+    "shared_name" : "Only_annotated_sites(1)",
+    "SUID" : 52,
+    "name" : "Figure5"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "88",
+        "SUID" : 88,
+        "label" : "Lipase",
+        "short_name" : "Lipase",
+        "type" : "cdd",
+        "Nsequences" : 342,
+        "size" : 79.0225,
+        "selected" : false,
+        "cdd_code" : "cl14883",
+        "popup" : "N/A",
+        "description" : "N/A. Pancreatic lipase-like enzymes.  Lipases are esterases that can hydrolyze long-chain acyl-triglycerides into di- and monoglycerides, glycerol, and free fatty acids at a water/lipid interface.  A typical feature of lipases is \"interfacial activation,\" the process of becoming active at the lipid/water interface, although several examples of lipases have been identified that do not undergo interfacial activation .  The active site of a lipase contains a catalytic triad consisting of Ser - His - Asp/Glu, but unlike most serine proteases, the active site is buried inside the structure.  A \"lid\" or \"flap\" covers the active site, making it inaccessible to solvent and substrates. The lid opens during the process of interfacial activation, allowing the lipid substrate access to the active site.",
+        "name" : "cdd_265473",
+        "Nfamilies" : 12,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl14883",
+        "shared_name" : "cdd_265473"
+      },
+      "position" : {
+        "x" : -452.08509088652806,
+        "y" : 851.193229592186
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "SUID" : 87,
+        "label" : "Esterase_lipase",
+        "short_name" : "Esterase_lipase",
+        "type" : "cdd",
+        "Nsequences" : 23,
+        "size" : 60.9698,
+        "selected" : false,
+        "cdd_code" : "cl19094",
+        "popup" : "N/A",
+        "description" : "N/A. Carboxylesterase type B [Lipid metabolism]",
+        "name" : "cdd_267447",
+        "Nfamilies" : 3,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl19094",
+        "shared_name" : "cdd_267447"
+      },
+      "position" : {
+        "x" : -690.5211049767728,
+        "y" : 728.5484495553725
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "SUID" : 86,
+        "label" : "c.41",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 48.5853,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.41 Subtilisin-like",
+        "description" : "Subtilisin-like",
+        "name" : "scop_52742",
+        "Nfamilies" : 2,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=52742",
+        "shared_name" : "scop_52742"
+      },
+      "position" : {
+        "x" : -353.83308427265933,
+        "y" : 758.3303145531235
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "SUID" : 85,
+        "label" : "TIM_phosphate_binding",
+        "short_name" : "TIM_phosphate_binding",
+        "type" : "cdd",
+        "Nsequences" : 3328,
+        "size" : 94.2396,
+        "selected" : false,
+        "cdd_code" : "cl17186",
+        "popup" : "N/A",
+        "description" : "N/A. This family contains proteins that are related to PcrB. The function of these proteins is unknown.",
+        "name" : "cdd_266538",
+        "Nfamilies" : 151,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl17186",
+        "shared_name" : "cdd_266538"
+      },
+      "position" : {
+        "x" : -831.4719694382782,
+        "y" : 398.76753989492033
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "SUID" : 84,
+        "label" : "Peptidases_S8_S53",
+        "short_name" : "Peptidases_S8_S53",
+        "type" : "cdd",
+        "Nsequences" : 1452,
+        "size" : 88.6925,
+        "selected" : false,
+        "cdd_code" : "cl10459",
+        "popup" : "Peptidase domain in the S8 and S53 families",
+        "description" : "Peptidase domain in the S8 and S53 families. This family is a member of the Peptidases S8 or Subtilases serine endo- and exo-peptidase clan. They have an Asp/His/Ser catalytic triad similar to that found in trypsin-like proteases, but do not share their three-dimensional structure and are not homologous to trypsin. The stability of subtilases may be enhanced by calcium, some members have been shown to bind up to 4 ions via binding sites with different affinity. Some members of this clan contain disulfide bonds. These enzymes can be intra- and extracellular, some function at extreme temperatures and pH values.",
+        "name" : "cdd_263972",
+        "Nfamilies" : 36,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl10459",
+        "shared_name" : "cdd_263972"
+      },
+      "position" : {
+        "x" : -359.60160168272233,
+        "y" : 642.424560546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "SUID" : 83,
+        "label" : "oxyanion_hole",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions oxyanion_hole",
+        "description" : "",
+        "name" : "ef_oxyanion_hole",
+        "URL" : "http://neksa.net/EF/ef/oxyanion_hole.html",
+        "shared_name" : "ef_oxyanion_hole"
+      },
+      "position" : {
+        "x" : -839.2402920957574,
+        "y" : 683.0360804424879
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "SUID" : 82,
+        "label" : "catalytic_triad",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions catalytic_triad",
+        "description" : "",
+        "name" : "ef_catalytic_triad",
+        "URL" : "http://neksa.net/EF/ef/catalytic_triad.html",
+        "shared_name" : "ef_catalytic_triad"
+      },
+      "position" : {
+        "x" : -671.1990344367846,
+        "y" : 554.8386564293992
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "SUID" : 81,
+        "label" : "35",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "GxGxxxxVxDxG",
+        "description" : "Serine_protease; PDOC00125; PS00136; 1",
+        "name" : "profile_35",
+        "URL" : "http://neksa.net/EF/profile/35.html",
+        "shared_name" : "profile_35"
+      },
+      "position" : {
+        "x" : -404.6186148182271,
+        "y" : 492.0292436763882
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "SUID" : 80,
+        "label" : "DSPc",
+        "short_name" : "DSPc",
+        "type" : "cdd",
+        "Nsequences" : 51,
+        "size" : 66.2956,
+        "selected" : false,
+        "cdd_code" : "cl00053",
+        "popup" : "N/A",
+        "description" : "N/A. Inositol hexakisphosphate, often called phytate, is found in abundance in seeds and acting as an inorganic phosphate reservoir. Phytases are phosphatases that hydrolyze phytate to less-phosphorylated myo-inositol derivatives and inorganic phosphate. The active-site sequence (HCXXGXGR) of the phytase identified from the gut micro-organism Selenomonas ruminantium forms a loop (P loop) at the base of a substrate binding pocket that is characteristic of protein tyrosine phosphatases (PTPs). The depth of this pocket is an important determinant of the substrate specificity of PTPs. In humans this enzyme is thought to aid bone mineralization and salvage the inositol moiety prior to apoptosis.",
+        "name" : "cdd_260159",
+        "Nfamilies" : 10,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl00053",
+        "shared_name" : "cdd_260159"
+      },
+      "position" : {
+        "x" : -1038.696197060313,
+        "y" : 689.8849647827046
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "SUID" : 79,
+        "label" : "114",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "AxxxGxxGIxxSNHGGRQLDxxxxxxxxL",
+        "description" : "catalytic_other; PDOC00482; PS00557; 1",
+        "name" : "profile_114",
+        "URL" : "http://neksa.net/EF/profile/114.html",
+        "shared_name" : "profile_114"
+      },
+      "position" : {
+        "x" : -791.7132481261518,
+        "y" : 209.7075285734637
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "SUID" : 78,
+        "label" : "294",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "HCxxGxxR",
+        "description" : "Phosphate binding motif type I (PTP); AL10052799; 1",
+        "name" : "profile_294",
+        "URL" : "http://neksa.net/EF/profile/294.html",
+        "shared_name" : "profile_294"
+      },
+      "position" : {
+        "x" : -917.4302073309996,
+        "y" : 739.7298920125298
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "SUID" : 77,
+        "label" : "SGNH_hydrolase",
+        "short_name" : "SGNH_hydrolase",
+        "type" : "cdd",
+        "Nsequences" : 1033,
+        "size" : 86.4154,
+        "selected" : false,
+        "cdd_code" : "cl01053",
+        "popup" : "N/A",
+        "description" : "N/A. The PC-Esterase family is comprised of Cas1p, the Homo sapiens C7orf58, Arabidopsis thaliana PMR5 and a group of plant freezing resistance/coldacclimatization proteins typified by Arabidopsis thaliana ESKIMO1. animal FAM55D proteins, and animal FAM113 proteins. The PC-Esterase family has features that are both similar and different from the canonical GDSL/SGNH superfamily. The members of this family are predicted to have Acyl esterase activity and predicted to modify cell-surface biopolymers such as glycans and glycoproteins. The Cas1p protein has a Cas1_AcylT domain, in addition, with the opposing acyltransferase activity. The C7orf58 family has a ATP-Grasp domain fused to the PC-Esterase and is the first identified secreted tubulin-tyrosine ligase like enzyme in eukaryotes. The plant family with PMR5, ESK1, TBL3 etc have a N-terminal C rich potential sugar binding domain followed by the PC-Esterase domain.",
+        "name" : "cdd_260768",
+        "Nfamilies" : 40,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl01053",
+        "shared_name" : "cdd_260768"
+      },
+      "position" : {
+        "x" : -889.201116190589,
+        "y" : 535.6868476007692
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "SUID" : 76,
+        "label" : "Ca",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions Ca",
+        "description" : "",
+        "name" : "ef_Ca",
+        "URL" : "http://neksa.net/EF/ef/Ca.html",
+        "shared_name" : "ef_Ca"
+      },
+      "position" : {
+        "x" : -477.94322328879804,
+        "y" : 559.9440291045192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "SUID" : 75,
+        "label" : "37",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "GTSxAxPxxxGxxA",
+        "description" : "Serine_protease; PDOC00125; PS00138; 1",
+        "name" : "profile_37",
+        "URL" : "http://neksa.net/EF/profile/37.html",
+        "shared_name" : "profile_37"
+      },
+      "position" : {
+        "x" : -452.86448686054996,
+        "y" : 675.0912700312423
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "SUID" : 74,
+        "label" : "c.1",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 97.4057,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.1 TIM beta/alpha-barrel",
+        "description" : "TIM beta/alpha-barrel",
+        "name" : "scop_51350",
+        "Nfamilies" : 103,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=51350",
+        "shared_name" : "scop_51350"
+      },
+      "position" : {
+        "x" : -906.0361552851485,
+        "y" : 248.2920233699342
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "SUID" : 73,
+        "label" : "292",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "GGxxxxxxxxxxxxxG",
+        "description" : "Phosphate-binding motif type II; AL10051350; 1",
+        "name" : "profile_292",
+        "URL" : "http://neksa.net/EF/profile/292.html",
+        "shared_name" : "profile_292"
+      },
+      "position" : {
+        "x" : -559.0294109003829,
+        "y" : 334.9563903808594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "SUID" : 72,
+        "label" : "36",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "HGTxVAG",
+        "description" : "Serine_protease; PDOC00125; PS00137; 1",
+        "name" : "profile_36",
+        "URL" : "http://neksa.net/EF/profile/36.html",
+        "shared_name" : "profile_36"
+      },
+      "position" : {
+        "x" : -483.6143307920465,
+        "y" : 453.76904831949525
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "SUID" : 71,
+        "label" : "Fe-S",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions Fe-S",
+        "description" : "",
+        "name" : "ef_Fe-S",
+        "URL" : "http://neksa.net/EF/ef/Fe-S.html",
+        "shared_name" : "ef_Fe-S"
+      },
+      "position" : {
+        "x" : -664.1412336894223,
+        "y" : 410.16352860859683
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "SUID" : 70,
+        "label" : "27",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "GHSxG",
+        "description" : "catalytic_on_lipids; PDOC00110; PS00120; 1",
+        "name" : "profile_27",
+        "URL" : "http://neksa.net/EF/profile/27.html",
+        "shared_name" : "profile_27"
+      },
+      "position" : {
+        "x" : -598.4987045511867,
+        "y" : 756.1772797078423
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "SUID" : 69,
+        "label" : "c.69",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 85.9962,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.69 alpha/beta-Hydrolases",
+        "description" : "alpha/beta-Hydrolases",
+        "name" : "scop_53473",
+        "Nfamilies" : 41,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=53473",
+        "shared_name" : "scop_53473"
+      },
+      "position" : {
+        "x" : -770.0458219773407,
+        "y" : 852.9422607421875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "SUID" : 68,
+        "label" : "FMN",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions FMN",
+        "description" : "",
+        "name" : "ef_FMN",
+        "URL" : "http://neksa.net/EF/ef/FMN.html",
+        "shared_name" : "ef_FMN"
+      },
+      "position" : {
+        "x" : -657.7053504562068,
+        "y" : 214.5233915574188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "SUID" : 67,
+        "label" : "c.23",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 87.9486,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.23 Flavodoxin-like",
+        "description" : "Flavodoxin-like",
+        "name" : "scop_52171",
+        "Nfamilies" : 48,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=52171",
+        "shared_name" : "scop_52171"
+      },
+      "position" : {
+        "x" : -1006.4787057781142,
+        "y" : 428.74849792345447
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "SUID" : 66,
+        "label" : "PTPc",
+        "short_name" : "PTPc",
+        "type" : "cdd",
+        "Nsequences" : 101,
+        "size" : 70.8654,
+        "selected" : false,
+        "cdd_code" : "cd00047",
+        "popup" : "Protein tyrosine phosphatases (PTP) catalyze the dephosphorylation of phosphotyrosine peptides; they regulate phosphotyrosine levels in signal transduction pathways",
+        "description" : "Protein tyrosine phosphatases (PTP) catalyze the dephosphorylation of phosphotyrosine peptides; they regulate phosphotyrosine levels in signal transduction pathways. The depth of the active site cleft renders the enzyme specific for phosphorylated Tyr (pTyr) residues, instead of pSer or pThr. This family has a distinctive active site signature motif, HCSAGxGRxG. Characterized as either transmembrane, receptor-like or non-transmembrane (soluble) PTPs. Receptor-like PTP domains tend to occur in two copies in the cytoplasmic region of the transmembrane proteins, only one copy may be active.",
+        "name" : "cdd_238006",
+        "Nfamilies" : 1,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cd00047",
+        "shared_name" : "cdd_238006"
+      },
+      "position" : {
+        "x" : -979.5247419193149,
+        "y" : 823.8226318359375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "SUID" : 65,
+        "label" : "phosphate",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions phosphate",
+        "description" : "",
+        "name" : "ef_phosphate",
+        "URL" : "http://neksa.net/EF/ef/phosphate.html",
+        "shared_name" : "ef_phosphate"
+      },
+      "position" : {
+        "x" : -673.5948456409601,
+        "y" : 288.1215052386627
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "SUID" : 64,
+        "label" : "c.45",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 59.9345,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.45 (Phosphotyrosine protein) phosphatases II",
+        "description" : "(Phosphotyrosine protein) phosphatases II",
+        "name" : "scop_52798",
+        "Nfamilies" : 5,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=52798",
+        "shared_name" : "scop_52798"
+      },
+      "position" : {
+        "x" : -1098.8099968937377,
+        "y" : 825.7700118187485
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "SUID" : 63,
+        "label" : "175",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "FGDSxxDxGNN",
+        "description" : "catalytic_on_lipids; PDOC00842; PS01098; 1",
+        "name" : "profile_175",
+        "URL" : "http://neksa.net/EF/profile/175.html",
+        "shared_name" : "profile_175"
+      },
+      "position" : {
+        "x" : -788.2210330181613,
+        "y" : 609.5988315910577
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "SUID" : 62,
+        "label" : "nucleophilic_elbow",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions nucleophilic_elbow",
+        "description" : "",
+        "name" : "ef_nucleophilic_elbow",
+        "URL" : "http://neksa.net/EF/ef/nucleophilic_elbow.html",
+        "shared_name" : "ef_nucleophilic_elbow"
+      },
+      "position" : {
+        "x" : -636.3156387884013,
+        "y" : 802.011150446106
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "132",
+        "source" : "88",
+        "target" : "62",
+        "SUID" : 132,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_265473 (CDD_EF) ef_nucleophilic_elbow",
+        "shared_name" : "cdd_265473 (CDD_EF) ef_nucleophilic_elbow"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "88",
+        "target" : "82",
+        "SUID" : 131,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_265473 (CDD_EF) ef_catalytic_triad",
+        "shared_name" : "cdd_265473 (CDD_EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "88",
+        "target" : "69",
+        "weight" : 1.0,
+        "SUID" : 130,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_265473 (SCOP) scop_53473",
+        "shared_name" : "cdd_265473 (SCOP) scop_53473"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "87",
+        "target" : "69",
+        "weight" : 1.0,
+        "SUID" : 129,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_267447 (SCOP) scop_53473",
+        "shared_name" : "cdd_267447 (SCOP) scop_53473"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "87",
+        "target" : "82",
+        "SUID" : 128,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_267447 (CDD_EF) ef_catalytic_triad",
+        "shared_name" : "cdd_267447 (CDD_EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "85",
+        "target" : "74",
+        "weight" : 1.0,
+        "SUID" : 127,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266538 (SCOP) scop_51350",
+        "shared_name" : "cdd_266538 (SCOP) scop_51350"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "85",
+        "target" : "65",
+        "SUID" : 126,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266538 (CDD_EF) ef_phosphate",
+        "shared_name" : "cdd_266538 (CDD_EF) ef_phosphate"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "source" : "85",
+        "target" : "82",
+        "SUID" : 125,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266538 (CDD_EF) ef_catalytic_triad",
+        "shared_name" : "cdd_266538 (CDD_EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "85",
+        "target" : "71",
+        "SUID" : 124,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266538 (CDD_EF) ef_Fe-S",
+        "shared_name" : "cdd_266538 (CDD_EF) ef_Fe-S"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "source" : "85",
+        "target" : "68",
+        "SUID" : 123,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266538 (CDD_EF) ef_FMN",
+        "shared_name" : "cdd_266538 (CDD_EF) ef_FMN"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "source" : "84",
+        "target" : "86",
+        "weight" : 1.0,
+        "SUID" : 122,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_263972 (SCOP) scop_52742",
+        "shared_name" : "cdd_263972 (SCOP) scop_52742"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "source" : "84",
+        "target" : "76",
+        "SUID" : 121,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_263972 (CDD_EF) ef_Ca",
+        "shared_name" : "cdd_263972 (CDD_EF) ef_Ca"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "source" : "84",
+        "target" : "82",
+        "SUID" : 120,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_263972 (CDD_EF) ef_catalytic_triad",
+        "shared_name" : "cdd_263972 (CDD_EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "source" : "81",
+        "target" : "82",
+        "SUID" : 119,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_35 (EF) ef_catalytic_triad",
+        "shared_name" : "profile_35 (EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "source" : "81",
+        "target" : "84",
+        "weight" : 0.64,
+        "SUID" : 118,
+        "E10_cov" : 0.57,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.47,
+        "E1000_cov" : 0.73,
+        "E1_hits" : 681,
+        "E10_hits" : 823,
+        "selected" : false,
+        "E100_cov" : 0.64,
+        "E100_hits" : 933,
+        "E1000_hits" : 1064,
+        "name" : "profile_35 (EFL) cdd_263972",
+        "shared_name" : "profile_35 (EFL) cdd_263972"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "source" : "81",
+        "target" : "76",
+        "SUID" : 117,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_35 (EF) ef_Ca",
+        "shared_name" : "profile_35 (EF) ef_Ca"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "source" : "80",
+        "target" : "64",
+        "weight" : 0.51,
+        "SUID" : 116,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_260159 (SCOP) scop_52798",
+        "shared_name" : "cdd_260159 (SCOP) scop_52798"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "source" : "79",
+        "target" : "85",
+        "weight" : 0.06,
+        "SUID" : 115,
+        "E10_cov" : 0.058,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.058,
+        "E1000_cov" : 0.062,
+        "E1_hits" : 193,
+        "E10_hits" : 193,
+        "selected" : false,
+        "E100_cov" : 0.06,
+        "E100_hits" : 200,
+        "E1000_hits" : 207,
+        "name" : "profile_114 (EFL) cdd_266538",
+        "shared_name" : "profile_114 (EFL) cdd_266538"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "source" : "79",
+        "target" : "68",
+        "SUID" : 114,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_114 (EF) ef_FMN",
+        "shared_name" : "profile_114 (EF) ef_FMN"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "source" : "78",
+        "target" : "66",
+        "weight" : 0.89,
+        "SUID" : 113,
+        "E10_cov" : 0.89,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.89,
+        "E1000_cov" : 0.91,
+        "E1_hits" : 90,
+        "E10_hits" : 90,
+        "selected" : false,
+        "E100_cov" : 0.89,
+        "E100_hits" : 90,
+        "E1000_hits" : 92,
+        "name" : "profile_294 (EFL) cdd_238006",
+        "shared_name" : "profile_294 (EFL) cdd_238006"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "source" : "78",
+        "target" : "80",
+        "weight" : 1.0,
+        "SUID" : 112,
+        "E10_cov" : 1.0,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 1.0,
+        "E1000_cov" : 1.0,
+        "E1_hits" : 51,
+        "E10_hits" : 51,
+        "selected" : false,
+        "E100_cov" : 1.0,
+        "E100_hits" : 51,
+        "E1000_hits" : 51,
+        "name" : "profile_294 (EFL) cdd_260159",
+        "shared_name" : "profile_294 (EFL) cdd_260159"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "source" : "78",
+        "target" : "83",
+        "SUID" : 111,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_294 (EF) ef_oxyanion_hole",
+        "shared_name" : "profile_294 (EF) ef_oxyanion_hole"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "source" : "77",
+        "target" : "82",
+        "SUID" : 110,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_260768 (CDD_EF) ef_catalytic_triad",
+        "shared_name" : "cdd_260768 (CDD_EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "source" : "77",
+        "target" : "67",
+        "weight" : 0.9,
+        "SUID" : 109,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_260768 (SCOP) scop_52171",
+        "shared_name" : "cdd_260768 (SCOP) scop_52171"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "77",
+        "target" : "83",
+        "SUID" : 108,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_260768 (CDD_EF) ef_oxyanion_hole",
+        "shared_name" : "cdd_260768 (CDD_EF) ef_oxyanion_hole"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "source" : "75",
+        "target" : "76",
+        "SUID" : 107,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_37 (EF) ef_Ca",
+        "shared_name" : "profile_37 (EF) ef_Ca"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "source" : "75",
+        "target" : "84",
+        "weight" : 0.88,
+        "SUID" : 106,
+        "E10_cov" : 0.83,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.8,
+        "E1000_cov" : 0.93,
+        "E1_hits" : 1161,
+        "E10_hits" : 1212,
+        "selected" : false,
+        "E100_cov" : 0.88,
+        "E100_hits" : 1277,
+        "E1000_hits" : 1345,
+        "name" : "profile_37 (EFL) cdd_263972",
+        "shared_name" : "profile_37 (EFL) cdd_263972"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "75",
+        "target" : "82",
+        "SUID" : 105,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_37 (EF) ef_catalytic_triad",
+        "shared_name" : "profile_37 (EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "source" : "73",
+        "target" : "68",
+        "SUID" : 104,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_292 (EF) ef_FMN",
+        "shared_name" : "profile_292 (EF) ef_FMN"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "73",
+        "target" : "85",
+        "weight" : 0.4,
+        "SUID" : 103,
+        "E10_cov" : 0.38,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.35,
+        "E1000_cov" : 0.45,
+        "E1_hits" : 1155,
+        "E10_hits" : 1255,
+        "selected" : false,
+        "E100_cov" : 0.4,
+        "E100_hits" : 1329,
+        "E1000_hits" : 1499,
+        "name" : "profile_292 (EFL) cdd_266538",
+        "shared_name" : "profile_292 (EFL) cdd_266538"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "source" : "73",
+        "target" : "82",
+        "SUID" : 102,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_292 (EF) ef_catalytic_triad",
+        "shared_name" : "profile_292 (EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "source" : "73",
+        "target" : "65",
+        "SUID" : 101,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_292 (EF) ef_phosphate",
+        "shared_name" : "profile_292 (EF) ef_phosphate"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "source" : "73",
+        "target" : "71",
+        "SUID" : 100,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_292 (EF) ef_Fe-S",
+        "shared_name" : "profile_292 (EF) ef_Fe-S"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "72",
+        "target" : "84",
+        "weight" : 0.64,
+        "SUID" : 99,
+        "E10_cov" : 0.59,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.5,
+        "E1000_cov" : 0.71,
+        "E1_hits" : 732,
+        "E10_hits" : 852,
+        "selected" : false,
+        "E100_cov" : 0.64,
+        "E100_hits" : 926,
+        "E1000_hits" : 1032,
+        "name" : "profile_36 (EFL) cdd_263972",
+        "shared_name" : "profile_36 (EFL) cdd_263972"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "source" : "72",
+        "target" : "76",
+        "SUID" : 98,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_36 (EF) ef_Ca",
+        "shared_name" : "profile_36 (EF) ef_Ca"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "72",
+        "target" : "82",
+        "SUID" : 97,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_36 (EF) ef_catalytic_triad",
+        "shared_name" : "profile_36 (EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "source" : "70",
+        "target" : "88",
+        "weight" : 0.42,
+        "SUID" : 96,
+        "E10_cov" : 0.42,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.38,
+        "E1000_cov" : 0.5,
+        "E1_hits" : 130,
+        "E10_hits" : 142,
+        "selected" : false,
+        "E100_cov" : 0.42,
+        "E100_hits" : 145,
+        "E1000_hits" : 172,
+        "name" : "profile_27 (EFL) cdd_265473",
+        "shared_name" : "profile_27 (EFL) cdd_265473"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "source" : "70",
+        "target" : "62",
+        "SUID" : 95,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_27 (EF) ef_nucleophilic_elbow",
+        "shared_name" : "profile_27 (EF) ef_nucleophilic_elbow"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "source" : "70",
+        "target" : "82",
+        "SUID" : 94,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_27 (EF) ef_catalytic_triad",
+        "shared_name" : "profile_27 (EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "source" : "70",
+        "target" : "87",
+        "weight" : 0.17,
+        "SUID" : 93,
+        "E10_cov" : 0.17,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.17,
+        "E1000_cov" : 0.78,
+        "E1_hits" : 4,
+        "E10_hits" : 4,
+        "selected" : false,
+        "E100_cov" : 0.17,
+        "E100_hits" : 4,
+        "E1000_hits" : 18,
+        "name" : "profile_27 (EFL) cdd_267447",
+        "shared_name" : "profile_27 (EFL) cdd_267447"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "source" : "66",
+        "target" : "64",
+        "weight" : 1.0,
+        "SUID" : 92,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_238006 (SCOP) scop_52798",
+        "shared_name" : "cdd_238006 (SCOP) scop_52798"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "source" : "63",
+        "target" : "77",
+        "weight" : 0.17,
+        "SUID" : 91,
+        "E10_cov" : 0.14,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.14,
+        "E1000_cov" : 0.28,
+        "E1_hits" : 143,
+        "E10_hits" : 145,
+        "selected" : false,
+        "E100_cov" : 0.17,
+        "E100_hits" : 179,
+        "E1000_hits" : 288,
+        "name" : "profile_175 (EFL) cdd_260768",
+        "shared_name" : "profile_175 (EFL) cdd_260768"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "source" : "63",
+        "target" : "83",
+        "SUID" : 90,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_175 (EF) ef_oxyanion_hole",
+        "shared_name" : "profile_175 (EF) ef_oxyanion_hole"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "source" : "63",
+        "target" : "82",
+        "SUID" : 89,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_175 (EF) ef_catalytic_triad",
+        "shared_name" : "profile_175 (EF) ef_catalytic_triad"
+      },
+      "selected" : false
+    } ]
+  }
+}

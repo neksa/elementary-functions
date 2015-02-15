@@ -1,0 +1,24 @@
+
+Literature annotated sites:
+
+Total: 558
+1 Total monads:   14
+2 Total dyads:    68
+3 Total triads:  144
+4 Total tetrads: 145
+5 Total pentads:  94
+6 Total hexads:   56
+7 Total heptads:  17
+
+
+Literature and PSI-BLAST annotated sites:
+
+Total: 1753
+1 Total monads:   20
+2 Total dyads:   149
+3 Total triads:  393
+4 Total tetrads: 424
+5 Total pentads: 304
+6 Total hexads:  230
+7 Total heptads:  92
+
