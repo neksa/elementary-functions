@@ -1,0 +1,1347 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.2.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ "" ],
+    "shared_name" : "Only_annotated_sites(1)",
+    "SUID" : 2188,
+    "name" : "235"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "381",
+        "SUID" : 381,
+        "label" : "c.79",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 40.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.79 Tryptophan synthase beta subunit-like PLP-dependent enzymes",
+        "description" : "Tryptophan synthase beta subunit-like PLP-dependent enzymes",
+        "name" : "scop_53685",
+        "Nfamilies" : 1,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=53685",
+        "shared_name" : "scop_53685"
+      },
+      "position" : {
+        "x" : 290.21487394327306,
+        "y" : 350.04096887571774
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "777",
+        "SUID" : 777,
+        "label" : "E1_enzyme_family",
+        "short_name" : "E1_enzyme_family",
+        "type" : "cdd",
+        "Nsequences" : 281,
+        "size" : 77.7087,
+        "selected" : false,
+        "cdd_code" : "cl17196",
+        "popup" : "N/A",
+        "description" : "N/A. This family contains a repeated domain in ubiquitin activating enzyme E1 and members of the bacterial ThiF/MoeB/HesA family.",
+        "name" : "cdd_266547",
+        "Nfamilies" : 16,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl17196",
+        "shared_name" : "cdd_266547"
+      },
+      "position" : {
+        "x" : 250.46318784708166,
+        "y" : 499.23406982421875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "775",
+        "SUID" : 775,
+        "label" : "MDR",
+        "short_name" : "MDR",
+        "type" : "cdd",
+        "Nsequences" : 4060,
+        "size" : 95.5692,
+        "selected" : false,
+        "cdd_code" : "cl16912",
+        "popup" : "Medium chain reductase/dehydrogenase (MDR)/zinc-dependent alcohol dehydrogenase-like family",
+        "description" : "Medium chain reductase/dehydrogenase (MDR)/zinc-dependent alcohol dehydrogenase-like family. 2-enoyl thioester reductase (ETR) catalyzes the NADPH-dependent conversion of trans-2-enoyl acyl carrier protein/coenzyme A (ACP/CoA) to acyl-(ACP/CoA) in fatty acid synthesis. 2-enoyl thioester reductase activity has been linked in Candida tropicalis as essential in maintaining mitiochondrial respiratory function. This ETR family is a part of the medium chain dehydrogenase/reductase family, but lack the zinc coordination sites characteristic of the alcohol dehydrogenases in this family. NAD(P)(H)-dependent oxidoreductases are the major enzymes in the interconversion of alcohols and aldehydes, or ketones.  Alcohol dehydrogenase in the liver converts ethanol and NAD+ to acetaldehyde and NADH, while in yeast and some other microorganisms ADH catalyzes the conversion acetaldehyde to ethanol in alcoholic fermentation.   ADH is a member of the medium chain alcohol dehydrogenase family (MDR), which has a NAD(P)(H)-binding domain in a Rossmann fold of a beta-alpha form.  The NAD(H)-binding region is comprised of 2 structurally similar halves, each of which contacts a mononucleotide.  The N-terminal catalytic domain has a distant homology  to GroES.  These proteins typically form dimers (typically higher plants, mammals) or tetramers (yeast, bacteria), and have 2 tightly bound zinc atoms per subunit, a catalytic zinc at the active site and a structural zinc in a lobe of the catalytic domain.  NAD(H) binding occurs in the cleft between the catalytic and coenzyme-binding domains at the active site, and coenzyme binding induces a conformational closing of this cleft. Coenzyme binding typically precedes and contributes to substrate binding.  Candida tropicalis enoyl thioester reductase (Etr1p) catalyzes the NADPH-dependent reduction of trans-2-enoyl thioesters in mitochondrial fatty acid synthesis. Etr1p forms homodimers with each subunit containing a nucleotide-binding Rossmann fold domain and a catalytic domain.",
+        "name" : "cdd_266485",
+        "Nfamilies" : 84,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl16912",
+        "shared_name" : "cdd_266485"
+      },
+      "position" : {
+        "x" : 465.12698299396806,
+        "y" : 345.3514560127816
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "367",
+        "SUID" : 367,
+        "label" : "c.111",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 48.5853,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.111 Activating enzymes of the ubiquitin-like proteins",
+        "description" : "Activating enzymes of the ubiquitin-like proteins",
+        "name" : "scop_69571",
+        "Nfamilies" : 2,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=69571",
+        "shared_name" : "scop_69571"
+      },
+      "position" : {
+        "x" : 174.52033201212075,
+        "y" : 422.2169494628906
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "368",
+        "SUID" : 368,
+        "label" : "d.162",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 48.5853,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "d.162 LDH C-terminal domain-like",
+        "description" : "LDH C-terminal domain-like",
+        "name" : "scop_56326",
+        "Nfamilies" : 2,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=56326",
+        "shared_name" : "scop_56326"
+      },
+      "position" : {
+        "x" : 632.0855102539062,
+        "y" : 783.2079617118277
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "788",
+        "SUID" : 788,
+        "label" : "NAD_bind_amino_acid_DH",
+        "short_name" : "NAD_bind_amino_acid_DH",
+        "type" : "cdd",
+        "Nsequences" : 359,
+        "size" : 79.347,
+        "selected" : false,
+        "cdd_code" : "cl17226",
+        "popup" : "NAD(P) binding domain of amino acid dehydrogenase-like proteins",
+        "description" : "NAD(P) binding domain of amino acid dehydrogenase-like proteins. Malic enzymes (malate oxidoreductases) catalyse the oxidative decarboxylation of malate to form pyruvate.",
+        "name" : "cdd_266569",
+        "Nfamilies" : 17,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl17226",
+        "shared_name" : "cdd_266569"
+      },
+      "position" : {
+        "x" : 728.6202697753906,
+        "y" : 630.4029839705305
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "547",
+        "SUID" : 547,
+        "label" : "281",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "PxxWxxNxxNP",
+        "description" : "hydrolase; PDOC01027; PS01324; 1",
+        "name" : "profile_281",
+        "URL" : "http://neksa.net/EF/profile/281.html",
+        "shared_name" : "profile_281"
+      },
+      "position" : {
+        "x" : 402.338408775218,
+        "y" : 781.5162353515625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "667",
+        "SUID" : 667,
+        "label" : "LDH_MDH_like",
+        "short_name" : "LDH_MDH_like",
+        "type" : "cdd",
+        "Nsequences" : 519,
+        "size" : 81.812,
+        "selected" : false,
+        "cdd_code" : "cl17195",
+        "popup" : "NAD-dependent, lactate dehydrogenase-like, 2-hydroxycarboxylate dehydrogenase family",
+        "description" : "NAD-dependent, lactate dehydrogenase-like, 2-hydroxycarboxylate dehydrogenase family. Bacillus subtilis GlvA and Clostridium acetobutylicum pagL are 6-phospho-alpha-glucosidase, catalyzing the hydrolysis of alpha-glucopyranoside bonds to release glucose from oligosaccharides. The substrate specificities of other members of this subgroup are unknown. Some bacteria simultaneously translocate and phosphorylate disaccharides via the phosphoenolpyruvate-dependent phosphotransferase system (PEP_PTS).  After translocation, these phospho-disaccharides may be hydrolyzed by the GH4 glycoside hydrolases, which include 6-phospho-beta-glucosidases, 6-phospho-alpha-glucosidases, alpha-glucosidases/alpha-glucuronidases (only from Thermotoga), and alpha-galactosidases. Members of this subfamily are part of the NAD(P)-binding Rossmann fold superfamily, which includes a wide variety of protein families including the NAD(P)-binding domains of alcohol dehydrogenases, tyrosine-dependent oxidoreductases, glyceraldehyde-3-phosphate dehydrogenases, formate/glycerate dehydrogenases, siroheme synthases, 6-phosphogluconate dehydrogenases, aminoacid dehydrogenases, repressor rex, and NAD-binding potassium channel domains, among others.",
+        "name" : "cdd_266546",
+        "Nfamilies" : 17,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl17195",
+        "shared_name" : "cdd_266546"
+      },
+      "position" : {
+        "x" : 562.2186896134539,
+        "y" : 693.7425537109375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "360",
+        "SUID" : 360,
+        "label" : "c.58",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 59.9345,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.58 Aminoacid dehydrogenase-like, N-terminal domain",
+        "description" : "Aminoacid dehydrogenase-like, N-terminal domain",
+        "name" : "scop_53222",
+        "Nfamilies" : 5,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=53222",
+        "shared_name" : "scop_53222"
+      },
+      "position" : {
+        "x" : 845.6178744698128,
+        "y" : 564.7859497070312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "SUID" : 285,
+        "label" : "NADP",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions NADP",
+        "description" : "",
+        "name" : "ef_NADP",
+        "URL" : "http://neksa.net/EF/ef/NADP.html",
+        "shared_name" : "ef_NADP"
+      },
+      "position" : {
+        "x" : 520.5249633789062,
+        "y" : 595.3880303572492
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "SUID" : 284,
+        "label" : "metal",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions metal",
+        "description" : "",
+        "name" : "ef_metal",
+        "URL" : "http://neksa.net/EF/ef/metal.html",
+        "shared_name" : "ef_metal"
+      },
+      "position" : {
+        "x" : 501.9015366557049,
+        "y" : 788.3106988142806
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "SUID" : 283,
+        "label" : "ADP",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions ADP",
+        "description" : "",
+        "name" : "ef_ADP",
+        "URL" : "http://neksa.net/EF/ef/ADP.html",
+        "shared_name" : "ef_ADP"
+      },
+      "position" : {
+        "x" : 598.4424042689084,
+        "y" : 557.5927734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "419",
+        "SUID" : 419,
+        "label" : "c.66",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 90.0771,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.66 S-adenosyl-L-methionine-dependent methyltransferases",
+        "description" : "S-adenosyl-L-methionine-dependent methyltransferases",
+        "name" : "scop_53334",
+        "Nfamilies" : 57,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=53334",
+        "shared_name" : "scop_53334"
+      },
+      "position" : {
+        "x" : 629.8942247769986,
+        "y" : 265.6478726004996
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "SUID" : 286,
+        "label" : "sugar",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions sugar",
+        "description" : "",
+        "name" : "ef_sugar",
+        "URL" : "http://neksa.net/EF/ef/sugar.html",
+        "shared_name" : "ef_sugar"
+      },
+      "position" : {
+        "x" : 449.10057230023614,
+        "y" : 724.4291680525619
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "742",
+        "SUID" : 742,
+        "label" : "FDH_GDH_like",
+        "short_name" : "FDH_GDH_like",
+        "type" : "cdd",
+        "Nsequences" : 2506,
+        "size" : 92.3423,
+        "selected" : false,
+        "cdd_code" : "cl17240",
+        "popup" : "Formate/glycerate dehydrogenases, D-specific 2-hydroxy acid dehydrogenases and related dehydrogenases",
+        "description" : "Formate/glycerate dehydrogenases, D-specific 2-hydroxy acid dehydrogenases and related dehydrogenases. This family represents the largest portion of the catalytic domain of 2-hydroxyacid dehydrogenases as the NAD binding domain is inserted within the structural domain.",
+        "name" : "cdd_266580",
+        "Nfamilies" : 65,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl17240",
+        "shared_name" : "cdd_266580"
+      },
+      "position" : {
+        "x" : 653.6539033895348,
+        "y" : 473.98316923135906
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "398",
+        "SUID" : 398,
+        "label" : "c.2",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 70.778,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.2 NAD(P)-binding Rossmann-fold domains",
+        "description" : "NAD(P)-binding Rossmann-fold domains",
+        "name" : "scop_51734",
+        "Nfamilies" : 12,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=51734",
+        "shared_name" : "scop_51734"
+      },
+      "position" : {
+        "x" : 808.5400234794059,
+        "y" : 353.9011548616733
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "512",
+        "SUID" : 512,
+        "label" : "264",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "TPVPGGVGPxTxxxLxxN",
+        "description" : "binding_other; PDOC00616; PS00767; 1",
+        "name" : "profile_264",
+        "URL" : "http://neksa.net/EF/profile/264.html",
+        "shared_name" : "profile_264"
+      },
+      "position" : {
+        "x" : 728.6319729422966,
+        "y" : 700.9598077009992
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "756",
+        "SUID" : 756,
+        "label" : "NADB_Rossmann",
+        "short_name" : "NADB_Rossmann",
+        "type" : "cdd",
+        "Nsequences" : 2990,
+        "size" : 93.5233,
+        "selected" : false,
+        "cdd_code" : "cl09931",
+        "popup" : "Rossmann-fold NAD(P)(+)-binding proteins",
+        "description" : "Rossmann-fold NAD(P)(+)-binding proteins. This enzymatic domain is part of bacterial polyketide synthases and catalyses the first step in the reductive modification of the beta-carbonyl centres in the growing polyketide chain. It uses NADPH to reduce the keto group to a hydroxy group.",
+        "name" : "cdd_263925",
+        "Nfamilies" : 228,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl09931",
+        "shared_name" : "cdd_263925"
+      },
+      "position" : {
+        "x" : 576.1973143201126,
+        "y" : 404.102035846766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "757",
+        "SUID" : 757,
+        "label" : "235",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "GxGxxGxxxAxxxxxxG",
+        "description" : "Archaea:FAD_NAD_NAP; 84; 1",
+        "name" : "profile_235",
+        "URL" : "http://neksa.net/EF/profile/235.html",
+        "shared_name" : "profile_235"
+      },
+      "position" : {
+        "x" : 444.784927043859,
+        "y" : 541.5877237512354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "SUID" : 344,
+        "label" : "b.35",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 53.6074,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "b.35 GroES-like",
+        "description" : "GroES-like",
+        "name" : "scop_50128",
+        "Nfamilies" : 3,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=50128",
+        "shared_name" : "scop_50128"
+      },
+      "position" : {
+        "x" : 404.7066643904524,
+        "y" : 263.8581997489372
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "479",
+        "SUID" : 479,
+        "label" : "c.23",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 87.9486,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "c.23 Flavodoxin-like",
+        "description" : "Flavodoxin-like",
+        "name" : "scop_52171",
+        "Nfamilies" : 48,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=52171",
+        "shared_name" : "scop_52171"
+      },
+      "position" : {
+        "x" : 840.9642950822039,
+        "y" : 477.53631591796875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "686",
+        "SUID" : 686,
+        "label" : "Trp-synth-beta_II",
+        "short_name" : "Trp-synth-beta_II",
+        "type" : "cdd",
+        "Nsequences" : 634,
+        "size" : 83.1506,
+        "selected" : false,
+        "cdd_code" : "cl00342",
+        "popup" : "N/A",
+        "description" : "N/A. Members of this family are all pyridoxal-phosphate dependent enzymes. This family includes: serine dehydratase EC:4.2.1.13 P20132, threonine dehydratase EC:4.2.1.16, tryptophan synthase beta chain EC:4.2.1.20, threonine synthase EC:4.2.99.2, cysteine synthase EC:4.2.99.8 P11096, cystathionine beta-synthase EC:4.2.1.22, 1-aminocyclopropane-1-carboxylate deaminase EC:4.1.99.4.",
+        "name" : "cdd_260370",
+        "Nfamilies" : 59,
+        "URL" : "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cl00342",
+        "shared_name" : "cdd_260370"
+      },
+      "position" : {
+        "x" : 354.29957094108846,
+        "y" : 420.3022012902979
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "470",
+        "SUID" : 470,
+        "label" : "d.58",
+        "short_name" : "",
+        "type" : "scop",
+        "size" : 100.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "d.58 Ferredoxin-like",
+        "description" : "Ferredoxin-like",
+        "name" : "scop_54861",
+        "Nfamilies" : 127,
+        "URL" : "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?ver=1.75&key=54861",
+        "shared_name" : "scop_54861"
+      },
+      "position" : {
+        "x" : 846.60205078125,
+        "y" : 694.1554714774528
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "679",
+        "SUID" : 679,
+        "label" : "5",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "VxxxxxGEHGxxxxxxWSxxxxxG",
+        "description" : "catalytic_other; PDOC00062; PS00064; 1",
+        "name" : "profile_5",
+        "URL" : "http://neksa.net/EF/profile/5.html",
+        "shared_name" : "profile_5"
+      },
+      "position" : {
+        "x" : 648.4350436592661,
+        "y" : 677.6731268693131
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "707",
+        "SUID" : 707,
+        "label" : "6",
+        "short_name" : "",
+        "type" : "profile",
+        "size" : 30.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "TxLDxxRA",
+        "description" : "catalytic_other; PDOC00066; PS00068; 1",
+        "name" : "profile_6",
+        "URL" : "http://neksa.net/EF/profile/6.html",
+        "shared_name" : "profile_6"
+      },
+      "position" : {
+        "x" : 393.503129673283,
+        "y" : 660.4517510603744
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "SUID" : 330,
+        "label" : "ATP",
+        "short_name" : "",
+        "type" : "ef",
+        "size" : 45.0,
+        "selected" : false,
+        "cdd_code" : "",
+        "popup" : "Group of elementary functions ATP",
+        "description" : "",
+        "name" : "ef_ATP",
+        "URL" : "http://neksa.net/EF/ef/ATP.html",
+        "shared_name" : "ef_ATP"
+      },
+      "position" : {
+        "x" : 285.0150909423828,
+        "y" : 621.5686794852653
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1969",
+        "source" : "777",
+        "target" : "367",
+        "weight" : 1.0,
+        "SUID" : 1969,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266547 (SCOP) scop_69571",
+        "shared_name" : "cdd_266547 (SCOP) scop_69571"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1968",
+        "source" : "777",
+        "target" : "330",
+        "SUID" : 1968,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266547 (CDD_EF) ef_ATP",
+        "shared_name" : "cdd_266547 (CDD_EF) ef_ATP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1948",
+        "source" : "775",
+        "target" : "283",
+        "SUID" : 1948,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266485 (CDD_EF) ef_ADP",
+        "shared_name" : "cdd_266485 (CDD_EF) ef_ADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1950",
+        "source" : "775",
+        "target" : "398",
+        "weight" : 0.75,
+        "SUID" : 1950,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266485 (SCOP) scop_51734",
+        "shared_name" : "cdd_266485 (SCOP) scop_51734"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1951",
+        "source" : "775",
+        "target" : "344",
+        "weight" : 0.8,
+        "SUID" : 1951,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266485 (SCOP) scop_50128",
+        "shared_name" : "cdd_266485 (SCOP) scop_50128"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1946",
+        "source" : "775",
+        "target" : "285",
+        "SUID" : 1946,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266485 (CDD_EF) ef_NADP",
+        "shared_name" : "cdd_266485 (CDD_EF) ef_NADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2036",
+        "source" : "788",
+        "target" : "360",
+        "weight" : 0.03,
+        "SUID" : 2036,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266569 (SCOP) scop_53222",
+        "shared_name" : "cdd_266569 (SCOP) scop_53222"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2035",
+        "source" : "788",
+        "target" : "398",
+        "weight" : 1.0,
+        "SUID" : 2035,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266569 (SCOP) scop_51734",
+        "shared_name" : "cdd_266569 (SCOP) scop_51734"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2034",
+        "source" : "788",
+        "target" : "470",
+        "weight" : 0.52,
+        "SUID" : 2034,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266569 (SCOP) scop_54861",
+        "shared_name" : "cdd_266569 (SCOP) scop_54861"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2031",
+        "source" : "788",
+        "target" : "285",
+        "SUID" : 2031,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266569 (CDD_EF) ef_NADP",
+        "shared_name" : "cdd_266569 (CDD_EF) ef_NADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2032",
+        "source" : "788",
+        "target" : "283",
+        "SUID" : 2032,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266569 (CDD_EF) ef_ADP",
+        "shared_name" : "cdd_266569 (CDD_EF) ef_ADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1012",
+        "source" : "547",
+        "target" : "667",
+        "weight" : 0.24,
+        "SUID" : 1012,
+        "E10_cov" : 0.21,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.2,
+        "E1000_cov" : 0.32,
+        "E1_hits" : 105,
+        "E10_hits" : 109,
+        "selected" : false,
+        "E100_cov" : 0.24,
+        "E100_hits" : 126,
+        "E1000_hits" : 166,
+        "name" : "profile_281 (EFL) cdd_266546",
+        "shared_name" : "profile_281 (EFL) cdd_266546"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1009",
+        "source" : "547",
+        "target" : "286",
+        "SUID" : 1009,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_281 (EF) ef_sugar",
+        "shared_name" : "profile_281 (EF) ef_sugar"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1008",
+        "source" : "547",
+        "target" : "284",
+        "SUID" : 1008,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_281 (EF) ef_metal",
+        "shared_name" : "profile_281 (EF) ef_metal"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1475",
+        "source" : "667",
+        "target" : "398",
+        "weight" : 0.71,
+        "SUID" : 1475,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266546 (SCOP) scop_51734",
+        "shared_name" : "cdd_266546 (SCOP) scop_51734"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1474",
+        "source" : "667",
+        "target" : "368",
+        "weight" : 0.99,
+        "SUID" : 1474,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266546 (SCOP) scop_56326",
+        "shared_name" : "cdd_266546 (SCOP) scop_56326"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1470",
+        "source" : "667",
+        "target" : "285",
+        "SUID" : 1470,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266546 (CDD_EF) ef_NADP",
+        "shared_name" : "cdd_266546 (CDD_EF) ef_NADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1468",
+        "source" : "667",
+        "target" : "286",
+        "SUID" : 1468,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266546 (CDD_EF) ef_sugar",
+        "shared_name" : "cdd_266546 (CDD_EF) ef_sugar"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1467",
+        "source" : "667",
+        "target" : "284",
+        "SUID" : 1467,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266546 (CDD_EF) ef_metal",
+        "shared_name" : "cdd_266546 (CDD_EF) ef_metal"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1767",
+        "source" : "742",
+        "target" : "285",
+        "SUID" : 1767,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266580 (CDD_EF) ef_NADP",
+        "shared_name" : "cdd_266580 (CDD_EF) ef_NADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1771",
+        "source" : "742",
+        "target" : "283",
+        "SUID" : 1771,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_266580 (CDD_EF) ef_ADP",
+        "shared_name" : "cdd_266580 (CDD_EF) ef_ADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1772",
+        "source" : "742",
+        "target" : "398",
+        "weight" : 0.78,
+        "SUID" : 1772,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266580 (SCOP) scop_51734",
+        "shared_name" : "cdd_266580 (SCOP) scop_51734"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1773",
+        "source" : "742",
+        "target" : "479",
+        "weight" : 1.0,
+        "SUID" : 1773,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_266580 (SCOP) scop_52171",
+        "shared_name" : "cdd_266580 (SCOP) scop_52171"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "894",
+        "source" : "512",
+        "target" : "788",
+        "weight" : 0.15,
+        "SUID" : 894,
+        "E10_cov" : 0.14,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.14,
+        "E1000_cov" : 0.15,
+        "E1_hits" : 50,
+        "E10_hits" : 50,
+        "selected" : false,
+        "E100_cov" : 0.15,
+        "E100_hits" : 53,
+        "E1000_hits" : 53,
+        "name" : "profile_264 (EFL) cdd_266569",
+        "shared_name" : "profile_264 (EFL) cdd_266569"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1825",
+        "source" : "756",
+        "target" : "283",
+        "SUID" : 1825,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_263925 (CDD_EF) ef_ADP",
+        "shared_name" : "cdd_263925 (CDD_EF) ef_ADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1826",
+        "source" : "756",
+        "target" : "398",
+        "weight" : 1.0,
+        "SUID" : 1826,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_263925 (SCOP) scop_51734",
+        "shared_name" : "cdd_263925 (SCOP) scop_51734"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1824",
+        "source" : "756",
+        "target" : "285",
+        "SUID" : 1824,
+        "interaction" : "CDD_EF",
+        "shared_interaction" : "CDD_EF",
+        "selected" : false,
+        "name" : "cdd_263925 (CDD_EF) ef_NADP",
+        "shared_name" : "cdd_263925 (CDD_EF) ef_NADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1827",
+        "source" : "756",
+        "target" : "419",
+        "weight" : 0.037,
+        "SUID" : 1827,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_263925 (SCOP) scop_53334",
+        "shared_name" : "cdd_263925 (SCOP) scop_53334"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1840",
+        "source" : "757",
+        "target" : "775",
+        "weight" : 0.12,
+        "SUID" : 1840,
+        "E10_cov" : 0.067,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.055,
+        "E1000_cov" : 0.36,
+        "E1_hits" : 224,
+        "E10_hits" : 272,
+        "selected" : false,
+        "E100_cov" : 0.12,
+        "E100_hits" : 474,
+        "E1000_hits" : 1448,
+        "name" : "profile_235 (EFL) cdd_266485",
+        "shared_name" : "profile_235 (EFL) cdd_266485"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1839",
+        "source" : "757",
+        "target" : "686",
+        "weight" : 0.063,
+        "SUID" : 1839,
+        "E10_cov" : 0.049,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.0095,
+        "E1000_cov" : 0.1,
+        "E1_hits" : 6,
+        "E10_hits" : 31,
+        "selected" : false,
+        "E100_cov" : 0.063,
+        "E100_hits" : 40,
+        "E1000_hits" : 65,
+        "name" : "profile_235 (EFL) cdd_260370",
+        "shared_name" : "profile_235 (EFL) cdd_260370"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1841",
+        "source" : "757",
+        "target" : "756",
+        "weight" : 0.082,
+        "SUID" : 1841,
+        "E10_cov" : 0.064,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.034,
+        "E1000_cov" : 0.2,
+        "E1_hits" : 101,
+        "E10_hits" : 192,
+        "selected" : false,
+        "E100_cov" : 0.082,
+        "E100_hits" : 244,
+        "E1000_hits" : 593,
+        "name" : "profile_235 (EFL) cdd_263925",
+        "shared_name" : "profile_235 (EFL) cdd_263925"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1836",
+        "source" : "757",
+        "target" : "788",
+        "weight" : 0.29,
+        "SUID" : 1836,
+        "E10_cov" : 0.23,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.18,
+        "E1000_cov" : 0.53,
+        "E1_hits" : 63,
+        "E10_hits" : 83,
+        "selected" : false,
+        "E100_cov" : 0.29,
+        "E100_hits" : 105,
+        "E1000_hits" : 191,
+        "name" : "profile_235 (EFL) cdd_266569",
+        "shared_name" : "profile_235 (EFL) cdd_266569"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1835",
+        "source" : "757",
+        "target" : "742",
+        "weight" : 0.65,
+        "SUID" : 1835,
+        "E10_cov" : 0.5,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.4,
+        "E1000_cov" : 0.86,
+        "E1_hits" : 995,
+        "E10_hits" : 1241,
+        "selected" : false,
+        "E100_cov" : 0.65,
+        "E100_hits" : 1618,
+        "E1000_hits" : 2146,
+        "name" : "profile_235 (EFL) cdd_266580",
+        "shared_name" : "profile_235 (EFL) cdd_266580"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1838",
+        "source" : "757",
+        "target" : "667",
+        "weight" : 0.21,
+        "SUID" : 1838,
+        "E10_cov" : 0.15,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.11,
+        "E1000_cov" : 0.25,
+        "E1_hits" : 59,
+        "E10_hits" : 79,
+        "selected" : false,
+        "E100_cov" : 0.21,
+        "E100_hits" : 107,
+        "E1000_hits" : 131,
+        "name" : "profile_235 (EFL) cdd_266546",
+        "shared_name" : "profile_235 (EFL) cdd_266546"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1837",
+        "source" : "757",
+        "target" : "777",
+        "weight" : 0.33,
+        "SUID" : 1837,
+        "E10_cov" : 0.21,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.19,
+        "E1000_cov" : 0.44,
+        "E1_hits" : 54,
+        "E10_hits" : 59,
+        "selected" : false,
+        "E100_cov" : 0.33,
+        "E100_hits" : 92,
+        "E1000_hits" : 123,
+        "name" : "profile_235 (EFL) cdd_266547",
+        "shared_name" : "profile_235 (EFL) cdd_266547"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1833",
+        "source" : "757",
+        "target" : "330",
+        "SUID" : 1833,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_235 (EF) ef_ATP",
+        "shared_name" : "profile_235 (EF) ef_ATP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1828",
+        "source" : "757",
+        "target" : "285",
+        "SUID" : 1828,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_235 (EF) ef_NADP",
+        "shared_name" : "profile_235 (EF) ef_NADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1829",
+        "source" : "757",
+        "target" : "283",
+        "SUID" : 1829,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_235 (EF) ef_ADP",
+        "shared_name" : "profile_235 (EF) ef_ADP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1560",
+        "source" : "686",
+        "target" : "381",
+        "weight" : 1.0,
+        "SUID" : 1560,
+        "E10_cov" : 0.0,
+        "interaction" : "SCOP",
+        "shared_interaction" : "SCOP",
+        "E1_cov" : 0.0,
+        "E1000_cov" : 0.0,
+        "E1_hits" : 0,
+        "E10_hits" : 0,
+        "selected" : false,
+        "E100_cov" : 0.0,
+        "E100_hits" : 0,
+        "E1000_hits" : 0,
+        "name" : "cdd_260370 (SCOP) scop_53685",
+        "shared_name" : "cdd_260370 (SCOP) scop_53685"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1516",
+        "source" : "679",
+        "target" : "667",
+        "weight" : 0.41,
+        "SUID" : 1516,
+        "E10_cov" : 0.32,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.32,
+        "E1000_cov" : 0.43,
+        "E1_hits" : 165,
+        "E10_hits" : 165,
+        "selected" : false,
+        "E100_cov" : 0.41,
+        "E100_hits" : 211,
+        "E1000_hits" : 224,
+        "name" : "profile_5 (EFL) cdd_266546",
+        "shared_name" : "profile_5 (EFL) cdd_266546"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1634",
+        "source" : "707",
+        "target" : "286",
+        "SUID" : 1634,
+        "interaction" : "EF",
+        "shared_interaction" : "EF",
+        "selected" : false,
+        "name" : "profile_6 (EF) ef_sugar",
+        "shared_name" : "profile_6 (EF) ef_sugar"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1638",
+        "source" : "707",
+        "target" : "667",
+        "weight" : 0.17,
+        "SUID" : 1638,
+        "E10_cov" : 0.1,
+        "interaction" : "EFL",
+        "shared_interaction" : "EFL",
+        "E1_cov" : 0.1,
+        "E1000_cov" : 0.23,
+        "E1_hits" : 54,
+        "E10_hits" : 54,
+        "selected" : false,
+        "E100_cov" : 0.17,
+        "E100_hits" : 90,
+        "E1000_hits" : 117,
+        "name" : "profile_6 (EFL) cdd_266546",
+        "shared_name" : "profile_6 (EFL) cdd_266546"
+      },
+      "selected" : false
+    } ]
+  }
+}
