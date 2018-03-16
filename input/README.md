@@ -1,8 +1,11 @@
 ## extracted.matrix
 
 The file contains 294 profiles of elementary functional loops (EFLs).
+
 The format is simle and starts with a header followed by positional frequencies for each position and amino acid residue in the profile.
+
 See example below, where ID is Profile ID, K is the number of sequences in the alignment used to obtain the profile and L is the length of the profile (the number of positions).
+
 Each of the following lines corresponds to a position in the profile and is numbered sequentially starting from 0.
 
     PROFILE 4
@@ -48,14 +51,15 @@ Each of the following lines corresponds to a position in the profile and is numb
 This file contains search hits for all profiles in *extracted_matrix* file with a very lax threshold of E-value<1000.
 It means that you should probably filter it by a more stringent E-value.
 
-The sequences of matches can be extracted from all_CDD-3.11.fasta.gz using the start position #. Note that the fasta file contains XXXX prefix and suffix XXXX to allow for overhanging profile-sequence alignments.
+The sequences of matches can be extracted from all_CDD-3.11.fasta.gz using the start position #. Note that the fasta file contains XXXXX prefix and suffix XXXXX to allow for overhanging profile-sequence alignments.
 
 Columns:
-    - Profile ID
-    - Score of the hit
-    - Evalue of the hit
-    - start position # of the hit in the CDD PSSM
-    - CDD header
+
+    * Profile ID
+    * Score of the hit
+    * Evalue of the hit
+    * start position # of the hit in the CDD PSSM
+    * CDD header
 
     87	-2.93	814.00	0	gnl|CDD|238014 cd00057, gi,11356716
     87	-2.96	877.00	89	gnl|CDD|238020 cd00063, gi,2497559
