@@ -1,0 +1,28 @@
+        <head>
+            <script type="text/javascript" src="js/min/AC_OETags.min.js"></script>
+            <script type="text/javascript" src="js/min/json2.min.js"></script>
+            <script type="text/javascript" src="js/min/cytoscapeweb.min.js"></script>
+        </head>
+
+        <body>
+            <div id="cytoscapeweb" style="width:600px;height:400px;"></div>
+        </body>
+
+        <script type="text/javascript">
+            // network data could alternatively be grabbed via ajax
+            var xml = '\
+            <graphml>\
+              <graph>\
+                <node id="1"/>\
+                <node id="2"/>\
+                <edge target="1" source="2"/>\
+              </graph>\
+            </graphml>\
+            ';
+            
+            // init and draw
+            var vis = new org.cytoscapeweb.Visualization("cytoscapeweb");
+            vis.draw({ network: xml });
+        </script>
+
+
